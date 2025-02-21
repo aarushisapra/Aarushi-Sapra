@@ -1,4 +1,4 @@
-# Aarushi-Sapra
+# aarushisapra
 <h1 align="center">Hi 👋, I'm Aarushi Sapra</h1>
 <h3 align="center">🔍 Data-Driven Senior Business Analyst | BI Expert | Power BI | SQL | Tableau</h3>
 
