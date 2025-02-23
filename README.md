@@ -1,6 +1,6 @@
 # aarushisapra
 <h1 align="center">Hi 👋, I'm Aarushi Sapra</h1>
-<h3 align="center">🔍 Data-Driven Senior Business Analyst | BI Expert | Power BI | SQL | Tableau</h3>
+<h3 align="center">🔍 Data-Driven Senior Business Analyst |Python | Power BI | SQL | Tableau</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AarushiSapra&label=Profile%20Views&color=0e75b6&style=flat" alt="AarushiSapra" />
